@@ -1,0 +1,9 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Простой веб-калькулятор",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  }
+}
+
